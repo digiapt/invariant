@@ -26,7 +26,6 @@
     "node": ">=0.10"
   },
   "main": "invariant.js",
-  "browser": "browser.js",
   "browserify": {
     "transform": [
       "envify"
